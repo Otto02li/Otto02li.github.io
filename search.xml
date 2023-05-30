@@ -8,7 +8,7 @@
       <link href="/2023/05/30/go%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F%E7%AC%AC%E4%B8%80%E7%AB%A0%E7%BB%83%E4%B9%A0%E9%A2%98/"/>
       <url>/2023/05/30/go%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F%E7%AC%AC%E4%B8%80%E7%AB%A0%E7%BB%83%E4%B9%A0%E9%A2%98/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p></blockquote><p>练习 1.1： 修改 echo 程序，使其能够打印 os.Args[0] ，即被执行命令本身的名字。<br>练习 1.2： 修改 echo 程序，使其打印每个参数的索引和值，每个一行。<br>练习 1.3： 做实验测量潜在低效的版本和使用了 strings.Join 的版本的运行时间差异。（1.6<br>节讲解了部分 time 包，11.4节展示了如何写标准测试程序，以得到系统性的性能评测。）</p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>练习 1.1： 修改 echo 程序，使其能够打印 os.Args[0] ，即被执行命令本身的名字。<br>练习 1.2： 修改 echo 程序，使其打印每个参数的索引和值，每个一行。<br>练习 1.3： 做实验测量潜在低效的版本和使用了 strings.Join 的版本的运行时间差异。（1.6<br>节讲解了部分 time 包，11.4节展示了如何写标准测试程序，以得到系统性的性能评测。）</p></blockquote>]]></content>
       
       
       <categories>
